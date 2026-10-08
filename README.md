@@ -14,6 +14,4 @@ Laboratory records organized in experiment order. Each PDF includes the course d
 | 06 | Data Visualization Using Power BI | [View PDF](experiments/241501185_AD23632_Experiment_06.pdf) |
 | 07 | Data Visualization Using Tableau | [View PDF](experiments/241501185_AD23632_Experiment_07.pdf) |
 
-## Organization
 
-The `experiments/` folder contains all seven records. Filenames use two-digit experiment numbers to keep them in the correct order. Experiment 4 follows the supplied fourth file; its repeated EXP:3 label has been corrected to EXP:4.
